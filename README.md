@@ -4,11 +4,11 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-send and receive messages from WhatsApp using twlio and flask 
+send and receive messages from WhatsApp using twilio and flask 
   
- prerequiste:
+ prerequisite:
  ```sh
-$ pip install fkask
+$ pip install flask
 $ pip install twilio
 install ngrok
 ```
