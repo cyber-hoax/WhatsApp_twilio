@@ -19,8 +19,8 @@ def index():
         pname = request.form['pname']
 
 
-        sid = 'AC454a7be24d70a5d270685218fafb0ec8'
-        auth = 'b45517e9408a9795b47a1b41b0d55f8c'
+        sid = 'account_sid'
+        auth = 'auth_token'
 
         client = Client(sid,auth)
 
