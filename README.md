@@ -5,6 +5,8 @@
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 send and receive messages from WhatsApp using twilio and flask 
+
+first for most integrate your number with twilio sandbox
   
  prerequisite:
  ```sh
